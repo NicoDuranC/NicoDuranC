@@ -15,10 +15,10 @@ participo en múltiples proyectos, tanto por el área profesional, como hobbys p
 [![C](https://img.shields.io/badge/C-000094?style=for-the-badge&logo=C&logoColor=white&labelColor=000000)]()
 [![React](https://img.shields.io/badge/react-0092D2?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)]()
 [![Python](https://img.shields.io/badge/Python-00B156?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)]()
-[![Java](https://img.shields.io/badge/Java-F32500?style=for-the-badge&logo=java&logoColor=white&labelColor=000000)]()
 [![php](https://img.shields.io/badge/php-A172FF?style=for-the-badge&logo=php&logoColor=white&labelColor=000000)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFB600?style=for-the-badge&logo=firebase&logoColor=white&labelColor=000000)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7272FF?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=000000)]()
+[![Java](https://img.shields.io/badge/Java-F32500?style=for-the-badge&logo=java&logoColor=white&labelColor=000000)]()
 
 <!--
 **NicoDuranC/NicoDuranC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
