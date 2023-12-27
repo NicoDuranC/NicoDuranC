@@ -1,14 +1,15 @@
 # Nicolás Durán
 ## Ingeniero Civil Telemático
+<br>
 
 Estudiante de Ingeniería Civil Telemática en la Universidad Técnica Federico Santa María,<br>
 participo en múltiples proyectos, tanto por el área profesional, como hobbys personales.<br><br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=000000)](https://www.linkedin.com/in/nicol%C3%A1s-dur%C3%A1n-campos-351411269/)
-[![GMail](https://img.shields.io/badge/Correo%20USM-000000?style=for-the-badge&logo=microsoft-outlook&logoColor=389DEB&labelColor=000000)](mailto:nicolas.duranc@usm.cl)
+[![Outlook](https://img.shields.io/badge/Correo%20USM-000000?style=for-the-badge&logo=microsoft-outlook&logoColor=389DEB&labelColor=000000)](mailto:nicolas.duranc@usm.cl)
 [![GMail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=000000)](mailto:nico.duran.work@gmail.com)
-[![PlayStore](https://img.shields.io/badge/Play%20Store%20Developer-000000?style=for-the-badge&logo=google-play&logoColor=FFA727&labelColor=000000)](https://play.google.com/store/apps/dev?id=4816443002402488872)
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=7289DA&labelColor=000000)](https://discordapp.com/users/487793257338896396)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF00FF&labelColor=000000)](https://www.instagram.com/storbo_2/)
+<br><hr>
 
 ### Herramientas de programación
 [![Python](https://img.shields.io/badge/Python-FFEB20?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)](#)
@@ -39,5 +40,9 @@ participo en múltiples proyectos, tanto por el área profesional, como hobbys p
 [![React](https://img.shields.io/badge/React-32E6FF?style=for-the-badge&logo=React&logoColor=white&labelColor=000000)](#)
 [![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)](#)
 [![Firebase](https://img.shields.io/badge/Firebase-FFB600?style=for-the-badge&logo=firebase&logoColor=white&labelColor=000000)](#)
+<br><hr>
 
-[![GitHub](https://img.shields.io/badge/TeleMinecraft-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/TeleMinecraft)
+## Proyectos personales
+[![GitHub](https://img.shields.io/badge/Minecraft%20USM-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/TeleMinecraft)
+[![Instagram](https://img.shields.io/badge/Minecraft%20USM-000000?style=for-the-badge&logo=instagram&logoColor=FF00FF&labelColor=000000)](https://www.instagram.com/comunidad.minecraft.usm/)
+[![PlayStore](https://img.shields.io/badge/Play%20Store%20Developer-000000?style=for-the-badge&logo=google-play&logoColor=FFA727&labelColor=000000)](https://play.google.com/store/apps/dev?id=4816443002402488872)
