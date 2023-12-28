@@ -8,7 +8,6 @@ participo en múltiples proyectos, tanto por el área profesional, como hobbys p
 [![Outlook](https://img.shields.io/badge/Correo%20USM-000000?style=for-the-badge&logo=microsoft-outlook&logoColor=389DEB&labelColor=000000)](mailto:nicolas.duranc@usm.cl)
 [![GMail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=000000)](mailto:nico.duran.work@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=7289DA&labelColor=000000)](https://discordapp.com/users/487793257338896396)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF00FF&labelColor=000000)](https://www.instagram.com/storbo_2/)
 <br><hr>
 
 ### Herramientas de programación
