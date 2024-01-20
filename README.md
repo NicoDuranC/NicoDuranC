@@ -25,7 +25,7 @@ participo en múltiples proyectos, tanto por el área profesional, como hobbys p
 ### Entornos de programación
 [![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=000000)](#)
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3ECD2A?style=for-the-badge&logo=android&logoColor=white&labelColor=000000)](#)
-[![Intelliji Idea](https://img.shields.io/badge/IntelliJ_IDEA-FF2E90.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=000000)](#)
+[![Intelliji Idea](https://img.shields.io/badge/IntelliJi_IDEA-FF2E90.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=000000)](#)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=000000)](#)
 [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=000000)](#)
 
