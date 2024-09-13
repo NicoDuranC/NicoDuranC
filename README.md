@@ -15,7 +15,6 @@ participo en múltiples proyectos, tanto por el área profesional, como hobbys p
 [![C++](https://img.shields.io/badge/C++-2085FF?style=for-the-badge&logo=Cplusplus&logoColor=white&labelColor=000000)](#)
 [![Java](https://img.shields.io/badge/Java-FF1313?style=for-the-badge&logo=OpenJDK&logoColor=white&labelColor=000000)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-FFF819?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=000000)](#)
-[![php](https://img.shields.io/badge/php-A08BFF?style=for-the-badge&logo=php&logoColor=white&labelColor=000000)](#)
 [![HTML](https://img.shields.io/badge/HTML-F17507?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=000000)](#)
 [![Css](https://img.shields.io/badge/CSS-0097FF?&style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-FFA431?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)](#)
